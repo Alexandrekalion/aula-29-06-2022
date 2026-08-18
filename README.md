@@ -56,4 +56,4 @@ Projeto de estudo. Deve ser tratado como exercicio historico de aprendizagem, na
 
 ## Autoria
 
-Desenvolvido por Michele Santana — Kalion Tecnologia.
+Desenvolvido por Alexandre Santana dos Santos — Kalion Tecnologia.
